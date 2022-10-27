@@ -1,0 +1,32 @@
+class AppRoutes{
+  static const SPLASHVIEW = '/splash';
+  static const LOGINVIEW = '/login';
+  static const HOMESCREEN = '/home';
+  static const FEEPAYMENT = '/feePayment';
+  static const FEEINVOICE = '/feeInvoice';
+  static const FEEPENDING = '/feePending';
+  static const STAFFDETAILS = '/staffDetails';
+  static const EXAMRESULT = '/examResult';
+  static const EXAMTIMETABLE = '/examTimetable';
+  static const SMSView = '/sms';
+  static const CIRCULAR = '/circular';
+  static const NEWS = '/news';
+  static const EVENT = '/event';
+  static const HOMEWORK = '/homework';
+  static const CLASSTEST = '/classTest';
+  static const ATTENDANCEDETAILS = '/attendaceDetails';
+  static const VOICE = '/voice';
+  static const VEHICLETRACKING = '/vehicleTracking';
+  static const LIVECLASSES = '/liveClasses';
+  static const STUDYLABS = '/studyLabs';
+  static const BAROWLIST = '/barrowList';
+  static const FINELIST = '/fineList';
+  static const FINEINVOICELIST = '/fineInvoiceList';
+  static const RENEWLIST = '/renewList';
+  static const MATERIALBILL = '/materialBill';
+  static const EXTRACURRICULAR = '/extraCurricular';
+  static const SCHOOLCALENDER = '/schoolCalender';
+  static const PROFILE = '/profile';
+  static const LEAVESTATUS = '/leaveStatus';
+  static const CLASSTIEMTABLE = '/classTimeTable';
+}
